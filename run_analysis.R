@@ -59,25 +59,3 @@ tidyDf <-  dcast(meltedDf, subjectID + actionName ~ variable, mean)
 # Write the table out to a tidy dataset.
 write.table(tidyDf, file = "tidyData.txt", quote = FALSE, row.names = FALSE)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-a
-
-
