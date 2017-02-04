@@ -3,9 +3,8 @@
 ***
 
 ## Overview
-The R Script contained in run_Analysis.R is designed to fetch, merge and output a single tidy dataset from the datasets held in the [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) stored on the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.html) website.
+The R Script contained in run_Analysis.R is designed to fetch, merge and output a single tidy dataset from the datasets held in the [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) stored on the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.html) website. The output is saved in tidyData.txt. The script achieves this by performing the following tasks.
 
-The output is saved in tidyData.txt. The script achieves this by performing the following tasks.
 1.	Fetching the data from the repository and saving it to the current working directory
 2.	Merge the test and train datasets in a single dataset
 3.	Tidy the dataset by adding column names that match the activity labels and renaming identifier column names so that they are more easily understood
