@@ -1,5 +1,4 @@
 # DATA DICTIONARY - Samsung Galaxy S Smartphone Accelerometer & Gyroscope Data
-***
 
 ###Identifiers
 ---
