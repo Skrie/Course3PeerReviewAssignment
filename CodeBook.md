@@ -97,12 +97,5 @@
     -	fBodyBodyGyroJerkMag-Mean()
     -	fBodyBodyGyroJerkMag-Std()
     -	fBodyBodyGyroJerkMag-MeanFreq()
-    -	angle(tBodyAccMean,gravity)
-    -	angle(tBodyAccJerkMean),gravityMean)
-    -	angle(tBodyGyroMean,gravityMean)
-    -	angle(tBodyGyroJerkMean,gravityMean)
-    -	angle(X,gravityMean)
-    -	angle(Y,gravityMean)
-    -	angle(Z,gravityMean)
 
 
